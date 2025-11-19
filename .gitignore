@@ -1,0 +1,11 @@
+﻿# LazyVim generated files
+plugin/
+lazy-lock.json
+*.log
+.DS_Store
+
+# Keep actual lockfile for consistency
+!lazy-lock.json
+
+# Secrets (não versione!)
+lua/config/secrets.lua
