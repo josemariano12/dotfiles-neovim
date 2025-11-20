@@ -5,7 +5,7 @@ lazy-lock.json
 .DS_Store
 
 # Keep actual lockfile for consistency
-!lazy-lock.json
+#!lazy-lock.json
 
 # Secrets (não versione!)
 lua/config/secrets.lua
